@@ -72,4 +72,19 @@ span
     width: 30%;
     text-align: auto;
     text-wrap: auto;
+    
+}
+.span
+{
+    width: 100%;
+    text-align: auto;
+    text-wrap: auto;
+    
+}
+.smallboxes
+{
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+    display: inline-block;
 }
